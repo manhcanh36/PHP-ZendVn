@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        var student;
+        // khai baso javascript object
+        student = {};
+        //khai baso thuoọc tính javascript object
+        student.name ="Nguyễn Văn M";
+        student.age =21;
+        student.location="Hà Nội";
+        console.log(student);
+
+
+        //chuyển đổi từ javascript object thành json
+        //json là định dạng và trao đổi dữ liệu
+        var student_json = JSON.stringify(student);
+
+        console.log(student_json);
+
+        alert(student.name);
+        alert(student_json.name);
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

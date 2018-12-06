@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.content{
+    margin: 50px 500px;
+}
+.content .col1{
+    margin-bottom: 20px;
+}
+.content .col1 input{
+    font-size: 20px;
+    margin-top: 5px;
+}
+.content .col2 input{
+    font-size: 20px;
+    margin-top: 5px;
+}
+.content .col3 {
+    margin-top: 20px;
+}
+.content .col4 {
+    margin-top: 20px;
+}
+.btn{
+    margin-top: 50px;
+}
