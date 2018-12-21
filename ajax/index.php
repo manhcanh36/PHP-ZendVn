@@ -11,7 +11,7 @@
     <title>Album example for Bootstrap</title>
 
     <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="bootstrap.min.css">
 
     <!-- Custom styles for this template -->
     <link href="album.css" rel="stylesheet">
@@ -70,7 +70,7 @@
             <div class="row album-list">
                 <div class="col-md-4">
                     <div class="card mb-4 box-shadow">
-                        <img class="card-img-top" src="https://cdn.pixabay.com/photo/2016/02/26/16/32/dog-1224267_960_720.jpg" alt="Card image cap">
+                        <img class="card-img-top" src="ban.jpg" alt="Card image cap">
                         <div class="card-body">
                             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                             <div class="d-flex justify-content-between align-items-center">
@@ -85,7 +85,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card mb-4 box-shadow">
-                        <img class="card-img-top" src="https://cdn.pixabay.com/photo/2016/02/26/16/32/dog-1224267_960_720.jpg" alt="Card image cap">
+                        <img class="card-img-top" src="ban.jpg" alt="Card image cap">
                         <div class="card-body">
                             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                             <div class="d-flex justify-content-between align-items-center">
@@ -100,7 +100,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card mb-4 box-shadow">
-                        <img class="card-img-top" src="https://cdn.pixabay.com/photo/2016/02/26/16/32/dog-1224267_960_720.jpg" alt="Card image cap">
+                        <img class="card-img-top" src="ban.jpg" alt="Card image cap">
                         <div class="card-body">
                             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                             <div class="d-flex justify-content-between align-items-center">
@@ -116,7 +116,7 @@
 
                 <div class="col-md-4">
                     <div class="card mb-4 box-shadow">
-                        <img class="card-img-top" src="https://cdn.pixabay.com/photo/2016/02/26/16/32/dog-1224267_960_720.jpg" alt="Card image cap">
+                        <img class="card-img-top" src="ban.jpg" alt="Card image cap">
                         <div class="card-body">
                             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                             <div class="d-flex justify-content-between align-items-center">
@@ -131,7 +131,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card mb-4 box-shadow">
-                        <img class="card-img-top" src="https://cdn.pixabay.com/photo/2016/02/26/16/32/dog-1224267_960_720.jpg" alt="Card image cap">
+                        <img class="card-img-top" src="ban.jpg" alt="Card image cap">
                         <div class="card-body">
                             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                             <div class="d-flex justify-content-between align-items-center">
@@ -146,23 +146,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card mb-4 box-shadow">
-                        <img class="card-img-top" src="https://cdn.pixabay.com/photo/2016/02/26/16/32/dog-1224267_960_720.jpg" alt="Card image cap">
-                        <div class="card-body">
-                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                            <div class="d-flex justify-content-between align-items-center">
-                                <div class="btn-group">
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                                </div>
-                                <small class="text-muted">9 mins</small>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="card mb-4 box-shadow">
-                        <img class="card-img-top" src="https://cdn.pixabay.com/photo/2016/02/26/16/32/dog-1224267_960_720.jpg" alt="Card image cap">
+                        <img class="card-img-top" src="ban.jpg" alt="Card image cap">
                         <div class="card-body">
                             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                             <div class="d-flex justify-content-between align-items-center">
@@ -177,7 +161,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card mb-4 box-shadow">
-                        <img class="card-img-top" src="https://cdn.pixabay.com/photo/2016/02/26/16/32/dog-1224267_960_720.jpg" alt="Card image cap">
+                        <img class="card-img-top" src="ban.jpg" alt="Card image cap">
                         <div class="card-body">
                             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                             <div class="d-flex justify-content-between align-items-center">
@@ -192,7 +176,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card mb-4 box-shadow">
-                        <img class="card-img-top" src="https://cdn.pixabay.com/photo/2016/02/26/16/32/dog-1224267_960_720.jpg" alt="Card image cap">
+                        <img class="card-img-top" src="ban.jpg" alt="Card image cap">
                         <div class="card-body">
                             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                             <div class="d-flex justify-content-between align-items-center">
@@ -205,14 +189,28 @@
                         </div>
                     </div>
                 </div>
-            </div>
+                <div class="col-md-4">
+                    <div class="card mb-4 box-shadow">
+                        <img class="card-img-top" src="ban.jpg" alt="Card image cap">
+                        <div class="card-body">
+                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                                    <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                                </div>
+                                <small class="text-muted">9 mins</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
         </div>
     </div>
 
     <div style="margin: 10px; text-align: center">
         <button id="load-more" type="button" class="btn btn-sm btn-success">Load more</button>
     </div>
-
+    </div>
 </main>
 
 <footer class="text-muted">
@@ -232,8 +230,8 @@
     src="https://code.jquery.com/jquery-3.3.1.js"
     integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
     crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="popper.min.js"></script>
+<script src="bootstrap.min.js"></script>
 <script src="holder.min.js"></script>
 
 <script type="text/javascript">
@@ -247,7 +245,7 @@
             params.type = 'product';
 
             jQuery.ajax({
-                url : 'http://localhost/1809e/ajax/ajax.php',
+                url : 'http://localhost:8080/PHP-ZendVn/ajax/ajax.php',
                 data: params,
                 type: 'POST',
                 dataType: 'json',

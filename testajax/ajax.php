@@ -1,9 +1,9 @@
 <?php
-$data = array();
-$data['success'] = 1;
-$data['html'] = ' <div class="col-md-4">
+    $data = array();
+    $data['success'] = 1;
+    $data['html']='<div class="col-md-4">
                     <div class="card mb-4 box-shadow">
-                        <img class="card-img-top" src="ban.jpg" alt="Card image cap">
+                        <img class="card-img-top" src="https://cdn.pixabay.com/photo/2016/02/26/16/32/dog-1224267_960_720.jpg" alt="Card image cap">
                         <div class="card-body">
                             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                             <div class="d-flex justify-content-between align-items-center">
@@ -16,5 +16,5 @@ $data['html'] = ' <div class="col-md-4">
                         </div>
                     </div>
                 </div>';
-echo json_encode($data);
-exit();
+    echo json_encode($data);
+    exit();
